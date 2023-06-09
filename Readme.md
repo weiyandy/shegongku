@@ -129,13 +129,13 @@
 
 可查询到: 身份户籍、开房记录、企业信息、事业单位、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ/邮箱/微博/网络账号/贴吧/微博/LOL/手机查绑、Q群关系、QQ/机主姓名、同名联系方式、就职单位、银行开户、通讯录、匹配查完整手机号, 身份证号等联系方式相关信息。
 
-直达：@AISGKBOT
+直达：[@AISGKBOT](http://t.me/AISGKBOT?start=AISGK_9OYMY9QW)
 
 ### 2.16 平安社工库
 
 可查询身份户籍、手机机主、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、MD5对应明文、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式相关信息。
 
-直达：@pingansgk_bot
+直达： [@pingansgk_bot](https://t.me/pingansgk_bot?start=Cgs6QJ4nHlDe)
 
 
 ### 2.17 AI社工库
@@ -145,6 +145,12 @@
 新增AI社工库，试了下又全又准。
 
 直达： [@aishegongkubot](http://t.me/aishegongkubot?start=AISGK_9OYMY9QW)。
+
+
+### 2.18 DATA007
+支持微博、手机号等信息查询。
+
+直达： [@DATA_007](https://t.me/DATA_007bot?start=t8XXQMK2zs)。
 
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
