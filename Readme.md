@@ -176,5 +176,14 @@
 
 直达地址： <a href="https://idouyin.io/3j" target="_blank">@NeiWangSGKbot</a> 。
 
+### 社工库 No22： 免费社工库机器人
+
+Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`进行查询。支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
+
+查询示例：
+
+<img src="img/2023-09-23_075853.png">
+
+直达地址： <a href="https://t.me/SGK_MG" target="_blank">@SGK_MG</a> 。
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
