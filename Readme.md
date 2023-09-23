@@ -110,7 +110,7 @@
 
 星链机器人复活，最强 45e 淘宝京东订单地址数据，全网独家。
 
-直达：[@XingDunBot](https://t.me/XingDunBot?start=2yH44cv)；
+直达：[@XingDunBot](https://t.me/XingDun2Bot?start=2yH44cv)；
 
 ### 社工库 No12： 星链机器人
 
