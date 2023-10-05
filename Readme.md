@@ -193,12 +193,25 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 ### 社工库 No23： 摩乐乐机器人-社工好帮手
 
-根据手机号查询姓名、身份证号等信息。
+根据手机号查询姓名、身份证号等信息。简单试了下，返回的信息准确但内容有限，不知道是不是我发送内容的问题，感兴趣的朋友可以试一下~
 
 查询示例：
 
 <img src="img/2023-10-05_184323.png">
 
-直达地址： <a href="https://t.me/MoLeLeBot" target="_blank">@MoLeLeBot</a> 。
+直达地址： <a href="https://t.me/MoLeLeBot?start=clnd1vsem00t7p90tcvuz6p88" target="_blank">@MoLeLeBot</a> 。
+
+
+### 社工库 No24： Space社工库机器人
+
+社工库免费查询：身份户籍、开房记录、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、QQ/邮箱/微博/网络账号、就职单位和银行开户等联系方式。 
+
+直接发送信息进行查询。
+
+查询示例：
+
+<img src="img/2023-10-2023-10-05_195744.png">
+
+直达地址： <a href="https://t.me/SpaceSGK_bot?start=lOfC1TZAij" target="_blank">@SpaceSGK_bot</a> 。
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
