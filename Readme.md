@@ -10,8 +10,7 @@
 
 **提醒： 请别用于违法用途，保护个人隐私。**
 
-一、社工库网站
--------
+## 一、社工库网站
 
 ### 1.1 Privacy
 
@@ -37,74 +36,113 @@
 
 在线查询，可注册充值，一些内容得充值才能正常使用，地址：[https://sgk66.cc/](https://sgk66.cc/)。我没充值，试了下，查询出的东西很少。
 
-二、Telegram 社工库
---------------
+## 二、Telegram 社工库
+
 
 提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[SS 桃花源](https://idouyin.io/34)]。
 
 ### 社工库 No1：暗精灵社工库
 
-直达：[@AJLSGK_bot](https://t.me/AJL01_bot)。
+直达：[@AJLSGK_bot](https://t.me/AJL01_bot?start=qstxIqcQ3R)。
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。
 
-### 社工库 No2：滴滴社工库
+### 社工库 No2： 免费社工库机器人
+
+Telegram社工库群组，通过发送/so空格+要查询的手机号等信息进行查询。支持三网机主、手机定位、车辆档案、个人户籍、全家户籍、模糊找人、开房记录、通话记录等信息的查询。
+
+查询示例：
+
+<img src="img/2023-09-23_075853.png">
+
+直达地址： <a href="https://t.me/SGK_MG" target="_blank">@SGK_MG</a> 。
+
+### 社工库 No3：滴滴社工库
+
+此社工库已跑路。
 
 可根据手机号、身份证号、QQ 号、微博主页地址进行查询。
 
-直达：[@DiDiSGK_Bot](https://t.me/DiDiSGK_Bot?start=688f7451a81ec54578963bf0194fbfca)。
+直达：<a href="https://t.me/DiDiSGK_Bot?start=688f7451a81ec54578963bf0194fbfca" target="_blank">@DiDiSGK_Bot</a> 。
 
-### 社工库 No3：Hello World 社工库
 
-直达：[@sgk2023_03_30bot](https://t.me/sgk2023_03_30bot?start=SGK_YSK40COY)。
+### 社工库 No4：Hello World 社工库
 
 免费查询：身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ / 贴吧 / 微博 / LOL/Facebook / 手机查绑、Q 群关系、QQ / 机主姓名、同名联系方式、同邮服、同密码、姓名 (拼音) 模糊查身份证（猎魔）等。
 
-### 社工库 No4： 金牌免费社工机器人
+直接发送查询条件即可进行查询。
 
-直达：[@JinpaiSGK_bot](https://t.me/AJL01_bot)。
+查询示例： 
+
+<img src="img/2023-10-06_221254.png">
+
+直达：<a href="https://t.me/sgk2023_03_30bot?start=SGK_YSK40COY" target="_blank">@sgk2023_03_30bot</a> 。
+
+
+### 社工库 No5： 金牌免费社工机器人
+
+此社工库已跑路~
 
 查询开房信息、飞机火车、名下护照、手机机主、查婚外情、通话记录、银行流水、收货地址……
 
-### 社工库 No5： 综合渗透 – 社工库机器人
+直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@JinpaiSGK_bot</a> 。
 
-直达：[@KernelBugXBot](https://t.me/AJL01_bot)。
+
+### 社工库 No6： 综合渗透 – 社工库机器人
+
+此社工库已跑路~
 
 免费使用，万能查询、猎魔查询、车牌查询、手机号检测、身份证查询、Q 绑查询、微博查询、LOL 查询……
 
-### 社工库 No6： 知乎社工库机器人
+直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@KernelBugXBot</a> 。
 
-直达：[@zhihu_bot](https://t.me/AJL01_bot)。
+
+### 社工库 No7： 知乎社工库机器人
 
 本机器人支持：快递, 开房, 车主, 机主, 户籍, 身份证, 手机, 邮箱, 账号, 密码等社工库查询、QQ 查绑 / 贴吧查绑 / 英雄联盟查 QQ 手机姓名 / 微博查绑、Q 群关系、QQ / 机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
 
-### 社工库 No7： 神威社工（废弃）
+查询示例，直接发送查询条件进行查询：
 
-直达： [@BZMSGKbot](https://t.me/AJL01_bot)。
+<img src="img/2023-10-06_223741.png">
+
+直达：<a href="https://t.me/zhihu_bot?start=11807600620tfqzu" target="_blank">@zhihu_bot</a> 。
+
+
+### 社工库 No8： 神威社工
+
+此社工库已跑路~
 
 社工都是基于泄露的数据，支持查询：手机号机主、户籍信息、外卖地址、企业法人、淘宝快递、车主信息、邮箱密码、银行信息、开房记录、贷款记录、QQ / 微博 / 密正 / lol。
 
 前面的文章有介绍过：[社工库，45 亿个人信息泄露，快递地址泄露的，查手机号，查地址，很真实](https://www.4spaces.org/3283.html) 。
 
-### 社工库 No8：狗狗免费社工机器人
+直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BZMSGKbot</a> 。
 
-直达地址： [@DogeSGK_bot](https://t.me/AJL01_bot)。
 
-最强社工人肉机器人，永久免费使用，全网数据最新最全，功能强大。一句话，告诉它你的需求~ 查 Q 绑 / 查微博 / 查机主 / 查开房 / 查出轨 / 查流水 / 查车主 / 查司法 / 查冻结 / 查户口 / 查定位…
+### 社工库 No9：狗狗免费社工机器人
 
-### 社工库 No9： 花花机器人
+最强社工人肉机器人，永久免费使用，全网数据最新最全，功能强大。一句话，告诉它你的需求~ 
 
-直达：[@sgkvipbot](https://t.me/AJL01_bot)。
+试了下，返回的信息有限。
 
-查 Q 绑 / 查微博 / 查机主 / 查开房 / 查出轨 / 查流水 / 查车主 / 查司法 / 查冻结 / 查户口 / 查定位…
+直达：<a href="https://t.me/DogeSGK_bot?start=1180760062" target="_blank">@DogeSGK_bot</a> 。
 
-### 社工库 No10： MI6 免费社工机器人
 
-直达：[@MI6SGK_bot](https://t.me/AJL01_bot)。
+### 社工库 No10： 花花机器人
 
-需要邀请人。
+查Q绑/查微博/查机主/查开房/查出轨/查流水/查车主/查司法/查冻结/查户口/查定位…
 
-### 社工库 No11： 星盾 - 社工机器人
+直达：<a href="https://t.me/sgkvipbot?start=vip_1116941" target="_blank">@sgkvipbot</a> 。
+
+
+### 社工库 No11： MI6 免费社工机器人
+
+直接发送查询条件进行查询即可。
+
+直达：<a href="https://t.me/MI6SGK_bot?start=6gSGu7wzCW" target="_blank">@MI6SGK_bot</a> 。
+
+
+### 社工库 No12： 星盾 - 社工机器人
 
 又一个社工库，支持手机号 / 身份证 / 微博 / QQ 号查询，查询免费，但显示需要钻石或金币。
 
@@ -114,16 +152,17 @@
 
 <img src="img/2023-09-23_195457.png">
 
-直达：[@XingDunBot](https://t.me/XingDun2Bot?start=2yH44cv)；
+直达：<a href="https://t.me/XingDun2Bot?start=2yH44cv" target="_blank">@XingDun2Bot</a> 。
 
-### 社工库 No12： 星链机器人
+
+### 社工库 No13： 星链机器人
 
 
 2 月 12 日晚，Telegram 机器人爆出中国公民的 45 亿个人信息泄露，但机器人管理员也许由于担心警方抓捕，于 13 日关闭了该机器人。并于 15 日深夜、16 日凌晨在官方频道（2021 年 4 月 28 日创建）发布两篇 “星链永久关闭” 的申明：
 
 原星链机器人管理员账号为：@shegk66，星链频道为：@szhongyu，该管理员随后注销了账号 @shegk66。
 
-### 社工库 No13： ingeek 社工库
+### 社工库 No14： ingeek 社工库
 
 
 免费的社工信息查询平台、泄露数据查询平台。免费赠送给你 4 个钻石。每次查询信息会消耗 1 个钻石。你可以通过每日签到、邀请新用户、直接充值等方式源源不断地获取钻石哦！
