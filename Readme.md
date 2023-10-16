@@ -173,7 +173,12 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 免费的社工信息查询平台、泄露数据查询平台。免费赠送给你 4 个钻石。每次查询信息会消耗 1 个钻石。你可以通过每日签到、邀请新用户、直接充值等方式源源不断地获取钻石哦！
 
-直达：[@ingeeksgkbot](https://t.me/AJL01_bot)
+直接发送查询条件进行查询即可：
+
+<img src="img/2023-10-16_084149.png">
+
+
+地址： <a href="https://t.me/ingeeksgkbot?start=MTE4MDc2MDA2Mg==" target="_blank">@ingeeksgkbot</a> 。
 
 ### 社工库 No15： BUG 社工库
 
