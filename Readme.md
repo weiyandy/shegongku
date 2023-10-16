@@ -261,7 +261,7 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 查询示例：
 
-<img src="img/2023-10-2023-10-05_195744.png">
+<img src="img/2023-10-05_195744.png">
 
 直达地址： <a href="https://t.me/SpaceSGK_bot?start=lOfC1TZAij" target="_blank">@SpaceSGK_bot</a> 。
 
