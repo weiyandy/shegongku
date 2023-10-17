@@ -182,16 +182,22 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 ### 社工库 No15： BUG 社工库
 
+此社工库已跑路~
+
 查询泄露的数据 如 QQ、微博、贴吧、手机机主、银行卡、贷款记录、购物记录等，新增社保查询。
 
-直达：@BUGSGK_BOT
-
+直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BUGSGK_BOT</a> 。
 
 ### 社工库 No16：平安社工库
 
 可查询身份户籍、手机机主、开房记录、快递地址、贷款记录、车牌车主、个人常用密码、MD5 对应明文、QQ / 邮箱 / 微博 / 网络账号、就职单位和银行开户等联系方式相关信息。
 
-直达：@pingansgk_bot
+真免费，但是查不出来东西呢，我输入的条件这个社工库恰好没有？使用时直接发送查询条件(手机号、QQ号)即可：
+
+<img src="img/2023-10-17_161708.png">
+
+直达：<a href="https://t.me/pingansgk_bot?start=Cgs6QJ4nHlDe" target="_blank">@pingansgk_bot</a> 。
+
 
 ### 社工库 No17：AI 社工库
 
@@ -203,7 +209,9 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 ### 社工库 No18：DATA007
 
-支持微博、手机号等信息查询。
+隐私泄露数据查询，支持微博、手机号等信息查询。查询后需要积分解锁查询结果，查询时直接将查询条件(手机号等)发送过去即可，效果还不错~
+
+<img src="img/2023-10-17_162857.png">
 
 直达： <a href="https://t.me/DATA_007bot?start=t8XXQMK2zs" target="_blank">@DATA_007 </a> 。
 
@@ -213,7 +221,8 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 输入你想输入的内容可查询到: 淘宝订单、京东订单、拼多多订单、有赞订单、身份户籍、开房记录、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ / 邮箱 / 微博 / 网络账号 / 贴吧 / 微博 / LOL / 手机查绑、Q 群关系、QQ / 机主姓名、同名联系方式、通讯录等。
 
-直达： @sgkorder_bot。
+直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@sgkorder_bot</a> 。
+
 
 ### 社工库 No20：落日社工机器人
 
