@@ -457,6 +457,9 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 ```
 
 
+社工库地址： <a href="https://t.me/DingDangCats_Bot" target="_blank">@DingDangCats_Bot</a> 。
+
+
 ### 社工库 NO28: 金字塔社工库
 
 查询手机号、姓名、Q绑、微信ID、身份证、学习通等数据查询。使用时直接发送查询数据即可。
@@ -467,7 +470,7 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 <img src="img/2023-11-02_154057.png">
 
 
+社工库地址： <a href="https://t.me/PyramidNetBot?start=kge7G6rvKG" target="_blank">@PyramidNetBot</a> 。
 
-社工库地址： <a href="https://t.me/DingDangCats_Bot" target="_blank">@DingDangCats_Bot</a> 。
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
