@@ -473,4 +473,16 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/PyramidNetBot?start=kge7G6rvKG" target="_blank">@PyramidNetBot</a> 。
 
 
+### 社工库 NO29: 阿虎社工库机器人
+
+本机器人可查询到身份证、手机号、姓名、家庭住址、WeChatID、QQ绑定、邮箱、户籍等等信息。查询时直接发送查询数据即可。
+
+查询示例：
+
+
+
+
+社工库地址： <a href="https://t.me/Ahusgkbot?start=jWDqP02" target="_blank">@Ahusgkbot</a> 。
+
+
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
