@@ -481,8 +481,18 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 
 
-
 社工库地址： <a href="https://t.me/Ahusgkbot?start=jWDqP02" target="_blank">@Ahusgkbot</a> 。
+
+
+### 社工库 NO30: Botnet社工库
+
+查询QQ绑定/微博绑定/微信绑定的数据，查询免费，解锁需要使用积分。
+
+查询示例：
+
+<img src="img/2023-11-03_191253.png">
+
+社工库地址： <a href="https://t.me/BotnetSGKbot?start=MTE4MDc2MD" target="_blank">@BotnetSGKbot</a> 。
 
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
