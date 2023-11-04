@@ -495,4 +495,12 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/BotnetSGKbot?start=MTE4MDc2MD" target="_blank">@BotnetSGKbot</a> 。
 
 
+### 社工库  NO31: Be社工库机器人
+
+可查询到身份证、手机号、邮箱、家庭住址、密码、QQ绑定、微博绑定、户籍信息、同邮服、群关系、银行卡、车牌车主等信息。
+
+社工库地址：  <a href="https://t.me/BeSGKbot?start=6m0AqTH" target="_blank">@BeSGKbot</a> 。
+
+
+
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
