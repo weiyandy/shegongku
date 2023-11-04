@@ -529,5 +529,7 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 /gh 习大大 10001011
 ```
 
+社工库地址： <a href="https://t.me/NiceGKing_bot?start=1180760062" target="_blank">@NiceGKing_bot</a> 。
+
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
