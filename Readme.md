@@ -532,4 +532,12 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/NiceGKing_bot?start=1180760062" target="_blank">@NiceGKing_bot</a> 。
 
 
+### 社工库 NO33: 天空免费机器人
+
+名字叫免费机器人，但是不充值貌似没法用。使用需要消耗积分，可以通过签到、分享、充值等途径获得积分。效果没试。
+
+社工库地址： <a href="https://t.me/solalovebot?start=1180760062" target="_blank">@solalovebot</a> 。
+
+
+
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
