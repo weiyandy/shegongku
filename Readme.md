@@ -539,5 +539,15 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/solalovebot?start=1180760062" target="_blank">@solalovebot</a> 。
 
 
+### 社工库 NO34: 社工库机器人
+
+快递,开房,车主,机主,户籍,身份证,手机,邮箱,账号,密码等社工库查询、QQ查绑/贴吧查绑/英雄联盟查QQ手机姓名/微博查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、姓名查身份证号码（猎魔）等。
+
+主要返回QQ绑/微博/学习通/机主等信息。
+
+
+社工库地址： <a href="https://t.me/SGKorderBOT?start=1180760062" target="_blank">@SGKorderBOT</a> 。
+
+
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
