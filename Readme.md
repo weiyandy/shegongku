@@ -6,7 +6,7 @@
 
 整理一下网上可用的社工库。
 
-写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[SS 桃花源](https://idouyin.io/34)]。
+写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[狂舞机场](https://idouyin.io/34)]。
 
 **提醒： 请别用于违法用途，保护个人隐私。**
 
@@ -547,6 +547,23 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 
 社工库地址： <a href="https://t.me/SGKorderBOT?start=1180760062" target="_blank">@SGKorderBOT</a> 。
+
+
+### 社工库 NO35: SGK社工机器人
+
+直接输入关键信息，如手机号、身份证、QQ、邮箱、姓名、银行卡、车牌号车架号、社交账号、微博绑定等！
+
+机器人会自动识别内容并返回相应结果！
+
+社工库地址： <a href="https://t.me/SGSGK520bot?start=kLgPHTt8qS" target="_blank">@SGSGK520bot</a> 。
+
+
+### 社工库 NO36: 银联社工库-免费社工库平台
+
+直接输入要查询的手机号、邮箱、QQ、身份证、密码、微博UID、用户名、姓名、facebook ID等信息。
+
+社工库地址： <a href="https://t.me/unionpaysgkbot?start=MTE4MDc2MDA2Mg==" target="_blank">@unionpaysgkbot</a> 。
+
 
 
 
