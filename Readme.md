@@ -12,6 +12,10 @@
 
 ## 一、社工库网站
 
+### 1.1 免费社工库导航
+
+一个收录超好用的免费社工库导航页，地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
+
 ### 1.1 Privacy
 
 在线使用，地址：[https://privacy.aiuys.com/](https://privacy.aiuys.com/)，个人数据隐私泄露检测，查 QQ / 查手机号 / 查身份证 / 查微博 / 查邮箱。
