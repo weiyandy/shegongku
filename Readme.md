@@ -16,7 +16,7 @@
 
 一个收录超好用的免费社工库导航页，地址： [https://www.shegongku.top/](https://www.shegongku.top/)。
 
-### 1.1 Privacy
+### 1.2 Privacy
 
 在线使用，地址：[https://privacy.aiuys.com/](https://privacy.aiuys.com/)，个人数据隐私泄露检测，查 QQ / 查手机号 / 查身份证 / 查微博 / 查邮箱。
 
@@ -24,7 +24,7 @@
 
 本文有详细介绍：[一个简易免费的社工库 (通过 QQ / 手机号等查询个人信息)，靠谱！](https://www.4spaces.org/1240.html)
 
-### 1.2 LosePrivacy
+### 1.3 LosePrivacy
 
 在线查询，地址：[https://web.losedh.cyou](https://idouyin.io/2i)。
 
