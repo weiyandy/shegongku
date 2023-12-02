@@ -569,6 +569,12 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/unionpaysgkbot?start=MTE4MDc2MDA2Mg==" target="_blank">@unionpaysgkbot</a> 。
 
 
+### 社工库 NO37: 个户大头机器人
+
+一个付费社工，根据身份证查询户籍，效果未知~
+
+社工库地址： <a href="https://t.me/datouerzi_bot" target="_blank">@datouerzi_bot</a> 。
+
 
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
