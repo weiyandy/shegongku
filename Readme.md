@@ -576,5 +576,12 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/datouerzi_bot" target="_blank">@datouerzi_bot</a> 。
 
 
+### 社工库 NO38: 无名社工库机器人
+
+支持三种查询方式，直接发送关键字、猎魔查询、手机号补全。
+
+
+社工库地址： <a href="https://t.me/wmsgk_bot?start=3CPaCm3POG" target="_blank">@wmsgk_bot</a> 。
+
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
