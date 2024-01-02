@@ -6,7 +6,7 @@
 
 整理一下网上可用的社工库。
 
-写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[狂舞机场](https://idouyin.io/34)]。
+写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[洼地云](https://idouyin.io/34)]。
 
 **提醒： 请别用于违法用途，保护个人隐私。**
 
@@ -43,7 +43,7 @@
 ## 二、Telegram 社工库
 
 
-提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[狂舞机场](https://idouyin.io/34)]。
+提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[洼地云](https://idouyin.io/34)]。
 
 ### 社工库 No1：暗精灵社工库
 
@@ -582,6 +582,17 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 
 社工库地址： <a href="https://t.me/wmsgk_bot?start=3CPaCm3POG" target="_blank">@wmsgk_bot</a> 。
+
+
+### 社工库 NO 39: 情报局社工库
+
+免费查询，返回信息也很快、很全。
+
+发送身份证(含台湾)、邮箱、姓名、QQ号、手机号、微信原始ID、微博ID、账号名、企业统一信用编码,手机串号,快手uid,推特uid,facebook uid,手机串号即可查询。
+
+
+社工库地址： <a href="https://t.me/InfSGK_bot?start=MTE4MDc2MDA2Mg==" target="_blank">@InfSGK_bot</a> 。
+
 
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
