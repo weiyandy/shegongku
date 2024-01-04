@@ -584,7 +584,7 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址： <a href="https://t.me/wmsgk_bot?start=3CPaCm3POG" target="_blank">@wmsgk_bot</a> 。
 
 
-### 社工库 NO 39: 情报局社工库
+### 社工库 NO39: 情报局社工库
 
 免费查询，返回信息也很快、很全。
 
@@ -593,6 +593,12 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 社工库地址： <a href="https://t.me/InfSGK_bot?start=MTE4MDc2MDA2Mg==" target="_blank">@InfSGK_bot</a> 。
 
+
+### 社工库 NO40: Hand政务机器人
+
+身份证、学历、不动产等信息查询，大多数信息是辽宁泄露信息(黑人问号❓)，查询需要消耗积分，需要通过邀请或充值获取。
+
+社工库地址： <a href="https://t.me/HandSGK_BOT?start=1180760062" target="_blank">@HandSGK_BOT</a> 。
 
 
 原文：[社工库推荐](https://www.4spaces.org/1240.html)。
