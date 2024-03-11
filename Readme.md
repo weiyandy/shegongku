@@ -672,14 +672,14 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 社工库地址: <a href="https://t.me/SL_SGK_bot?start=HXuOvpqE6f" target="_blank">@FreeCAA_bot</a>。
 
 
-### ✨度娘社工库机器人✨
+### 社工库 NO48:度娘社工库机器人
 
 
 好垃圾的一个社工库，太烂了，什么都查不出来，果然带百度的都是垃圾~
 
 社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@baidusell_bot</a>。
 
-### ✨海燕系统-车辆查询系统✨
+### 社工库 NO48: 海燕系统-车辆查询系统
 
 车牌号查询社工库，直接发送车牌号即可。
 
