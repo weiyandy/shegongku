@@ -1,12 +1,12 @@
 # 隐私查询：2024最新免费可用Telegram社工库盘点(更新中~)
 
-> 科学上网搭建教程，自己搭建代理：[2023 最新 v2ray 搭建完全手册 - 科学上网必备](https://www.4spaces.org/v2ray-all-process/)。
+> 科学上网搭建教程，自己搭建代理：[2024最新v2ray 搭建完全手册 - 科学上网必备](https://www.4spaces.org/v2ray-all-process/)。
 
 > 本文末尾整理了一些 Telegram 社工库，大家可以看看自己的信息泄露没
 
 整理一下网上可用的社工库。
 
-写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[洼地云](https://idouyin.io/34)]。
+写在前面：下文中提及需要代理才能访问的，是因为网址被防火墙拦截，有代理的挂自己的代理，没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[糊涂云](https://idouyin.io/34)]。
 
 **提醒： 请别用于违法用途，保护个人隐私。**
 
@@ -26,6 +26,10 @@
 
 ### 1.3 LosePrivacy
 
+
+**2024年5月25日 更新 此网站有网友提醒LosePrivacy充值后发现根本查不出什么数据，站长存在跑路风险，谨慎充值，需要得可以尝试其他工具**
+
+
 在线查询，地址：[https://web.losedh.cyou](https://idouyin.io/2i)。
 
 网站注册是通过邮箱注册的，注册登录后可以使用。
@@ -38,16 +42,18 @@
 
 ### 1.3 社工库
 
+2024年5月28日 更新，这个网站无法访问，跑路了
+
 在线查询，可注册充值，一些内容得充值才能正常使用，地址：[https://sgk66.cc/](https://sgk66.cc/)。我没充值，试了下，查询出的东西很少。
 
 ## 二、Telegram 社工库
 
 
-提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[洼地云](https://idouyin.io/34)]。
+提醒，所有的 Telegram 都是需要挂代理才能访问的。没代理的可以购买一下 v2ray 账号之后进行访问，推荐：[[糊涂云](https://idouyin.io/34)]。
 
 ### 社工库 No1：暗精灵社工库
 
-直达：[@AJLSGK_bot](https://t.me/AJL01_bot?start=qstxIqcQ3R)。
+直达：[@AJLSGK_bot](https://idouyin.io/41)。
 
 可以查询个人户籍 / 腾讯 / Q 群 / 京东、淘宝 / 快递信息。请别用于违法用途，保护个人隐私。
 
@@ -71,7 +77,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 <img src="https://img.yomige.org/file/dcff33959d1fca592304f.jpg">
 
 
-社工库地址：  <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@DiDiSGK_Bot</a>。 
+社工库地址：  <a href="https://idouyin.io/41" target="_blank">@DiDiSGK_Bot</a>。 
 
 
 
@@ -94,7 +100,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 查询开房信息、飞机火车、名下护照、手机机主、查婚外情、通话记录、银行流水、收货地址……
 
-直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@JinpaiSGK_bot</a> 。
+直达：<a href="https://idouyin.io/41" target="_blank">@JinpaiSGK_bot</a> 。
 
 
 ### 社工库 No6： 综合渗透 – 社工库机器人
@@ -103,7 +109,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 免费使用，万能查询、猎魔查询、车牌查询、手机号检测、身份证查询、Q 绑查询、微博查询、LOL 查询……
 
-直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@KernelBugXBot</a> 。
+直达：<a href="https://idouyin.io/41" target="_blank">@KernelBugXBot</a> 。
 
 
 ### 社工库 No7： 知乎社工库机器人
@@ -125,7 +131,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 前面的文章有介绍过：[社工库，45 亿个人信息泄露，快递地址泄露的，查手机号，查地址，很真实](https://www.4spaces.org/3283.html) 。
 
-直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BZMSGKbot</a> 。
+直达：<a href="https://idouyin.io/41" target="_blank">@BZMSGKbot</a> 。
 
 
 ### 社工库 No9：狗狗免费社工机器人
@@ -195,7 +201,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 查询泄露的数据 如 QQ、微博、贴吧、手机机主、银行卡、贷款记录、购物记录等，新增社保查询。
 
-直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@BUGSGK_BOT</a> 。
+直达：<a href="https://idouyin.io/41" target="_blank">@BUGSGK_BOT</a> 。
 
 ### 社工库 No16：平安社工库
 
@@ -230,7 +236,7 @@ Telegram社工库群组，通过发送/so空格+要查询的手机号等信息�
 
 输入你想输入的内容可查询到: 淘宝订单、京东订单、拼多多订单、有赞订单、身份户籍、开房记录、贷款记录、车牌车主、电话机主、学籍信息、收货信息、常用密码、外卖订单、通讯记录、网购记录、游戏数据、社保信息、招聘数据、QQ / 邮箱 / 微博 / 网络账号 / 贴吧 / 微博 / LOL / 手机查绑、Q 群关系、QQ / 机主姓名、同名联系方式、通讯录等。
 
-直达：<a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@sgkorder_bot</a> 。
+直达：<a href="https://idouyin.io/41" target="_blank">@sgkorder_bot</a> 。
 
 
 ### 社工库 No20：落日社工机器人
@@ -612,18 +618,18 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 同名查询、身份户籍、手机机主、开房记录、快递地址、车牌车主、账号密码、QQ/贴吧/微博/LOL/共享单车 手机查绑、Q群关系、QQ/机主姓名、同名联系方式、同邮服、同密码、外卖地址、家庭地址等等。
 
 
-社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">@SOUGOUSGK_BOT</a>；
+社工库地址: <a href="https://idouyin.io/41" target="_blank" rel="noreferrer noopener external" data-wpel-link="external">@SOUGOUSGK_BOT</a>；
 
 ### 社工库 NO42: 新世界社工库
 
-社工库地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址： <a href="https://idouyin.io/41" target="_blank">@Data888_bot</a>。使用详情： <a href="https://www.4spaces.org/4822.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 
 
 ### 社工库 NO43: Toronto社工库
 
 
-社工库地址: <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
+社工库地址: <a href="https://idouyin.io/41" target="_blank">@TorontoSGKbot</a>。使用详情：<a href="https://www.4spaces.org/4842.html" target="_blank" rel="noreferrer noopener" data-wpel-link="internal">Telegram社工库: 新世界社工库</a>。
 
 ### 社工库 NO44: Crime社工库
 
@@ -682,13 +688,13 @@ Telegram社工库群组，通过发送`/so空格+要查询的手机号等信息`
 
 好垃圾的一个社工库，太烂了，什么都查不出来，果然带百度的都是垃圾~
 
-社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@baidusell_bot</a>。
+社工库账号地址： <a href="https://idouyin.io/41" target="_blank">@baidusell_bot</a>。
 
 ### 社工库 NO49: 海燕系统-车辆查询系统
 
 车牌号查询社工库，直接发送车牌号即可。
 
-社工库账号地址： <a href="https://t.me/AJL01_bot?start=qstxIqcQ3R" target="_blank">@HYXT_bot</a>。
+社工库账号地址： <a href="https://idouyin.io/41" target="_blank">@HYXT_bot</a>。
 
 
 
